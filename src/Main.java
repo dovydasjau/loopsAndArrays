@@ -57,7 +57,7 @@ public class Main {
 
         System.out.println(starWars);
 
-        System.out.println("Number: " + number);
+        //System.out.println("Number: " + number);
 
 //        System.out.println(name.contains("a"));
 //        System.out.println(name.contains("h"));
